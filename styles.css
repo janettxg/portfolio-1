@@ -1,7 +1,9 @@
 h1 {
   color: red;
   font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 36px;
 }
 p {
-
+  text-align: center;
 }
